@@ -139,3 +139,7 @@ Desktop.ini
 ######################
 .eslintcache
 /.idea/
+
+
+# Project exclude paths
+/target/
